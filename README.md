@@ -12,14 +12,4 @@ Tu tarea es replicar el diseño de la imagen de referencia que se encuentra deba
 Este desafío no solo busca evaluar tu habilidad técnica, sino también tu capacidad para replicar y mejorar un diseño existente.  ¡Buena suerte!
 
 ## Stack utilizado
-Lenguajes, tecnología y frameworks utilizados en el desarrollo
-
-## Screenshots y vista previa
-Screenshots o enlace a la vista previa del trabajo finalizado
-
-## Instalación
-Instrucciones para otros desarrolladores sobre cómo instalar y ejecutar tu código en su entorno local.
-
-## Licencia
-[MIT](https://choosealicense.com/licenses/mit/)
-La mayoría de los proyectos de código abierto utilizan la licencia MIT. Siéntete libre de elegir la licencia que prefieras
+HTML y CSS.
